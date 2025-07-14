@@ -1,14 +1,14 @@
-<h1 align="center">Olá! 👋 Eu sou Pedro M2626</h1>
+<h1 align="center">Olá! 👋 Eu sou Pedro Morato Lahoz</h1>
 
 <p align="center">
-🎓 Futuro Cientista da Computação • 💡 Desenvolvedor por paixão • 🎮 Criador de jogos e experiências interativas
+🎓 Futuro Cientista da Computação • 💡 Desenvolvedor por paixão • 🎮 Criador de jogos
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 🎓 Estudante de Ciência da Computação no UniCEUB  
-👾 Comecei a programar em 2023 e desde então venho criando jogos, bots e sistemas web  
+👾 Comecei a programar no segundo semestre de 2024 e desde então venho criando jogos, bots e sistemas web  
 🎯 Buscando constantemente evoluir como programador e criador de soluções  
 🔍 Explorando diversas engines como Unity, Godot, Unreal e também Web Dev  
 📌 Ativamente aprendendo com o curso CS50 de Harvard  
@@ -35,7 +35,6 @@
 🧠 Estruturas de Dados e Algoritmos  
 🔄 Git e Controle de Versão  
 🧪 Flask, Memória, Lógica de Programação  
-🎮 Desenvolvimento de jogos 2D/3D  
 
 ---
 
