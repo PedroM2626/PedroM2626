@@ -40,9 +40,9 @@
 
 ## 📈 GitHub Stats
 
-![PedroM2626's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroM2626&show_icons=true&theme=tokyonight&count_private=true)
+![PedroM2626's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroM2626&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroM2626&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroM2626&layout=compact&theme=tokyonight&cache_seconds=1)
 
 ---
 
