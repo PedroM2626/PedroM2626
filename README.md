@@ -15,14 +15,14 @@
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Tecnologias que utilizo ou já utilizei em projetos
 
 <p align="center">
-  <!-- SkillIcons para ícones disponíveis -->
+  <!-- Ícones via SkillIcons para todos os suportados -->
   <img src="https://skillicons.dev/icons?i=git,vscode,docker,firebase,c,cpp,csharp,python,js,html,css,react,unity,unreal,godot,flutter" />
-  <!-- Shields.io para os faltantes -->
+  <!-- Shields.io para as que faltam -->
   <img src="https://img.shields.io/badge/FlutterFlow-9146FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
 </p>
 
 ---
