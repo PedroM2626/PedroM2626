@@ -19,10 +19,7 @@
 
 <p align="center">
   <!-- Ícones via SkillIcons para todos os suportados -->
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,firebase,c,cpp,csharp,python,js,html,css,react,unity,unreal,godot,flutter" />
-  <!-- Shields.io para as que faltam -->
-  <img src="https://img.shields.io/badge/FlutterFlow-9146FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,firebase,c,cpp,cs,python, lua, js,html,css,react, bootstrap, vite, flask, unity,unreal,godot, robloxstudio,flutter, figma" />
 </p>
 
 ---
