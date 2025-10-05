@@ -19,7 +19,7 @@
 
 <p align="center">
   <!-- Ícones via SkillIcons para todos os suportados -->
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,firebase,c,cpp,cs,java,rust,ruby,python,lua,js,html,css,react,bootstrap,electron,vite,flask,unity,unreal,godot,robloxstudio,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,docker,firebase,supabase,c,cpp,cs,java,rust,ruby,python,lua,js,ts,html,css,react,bootstrap,electron,vite,flask,unity,unreal,godot,robloxstudio,flutter,figma" />
 </p>
 
 ---
