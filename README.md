@@ -12,7 +12,7 @@
 👾 Comecei a programar no segundo semestre de 2024 e hoje busco aplicar o conhecimento em projetos de previsão, análise de sentimentos e sistemas web complexos.
 🎯 Buscando constantemente evoluir em arquitetura de dados, performance e deploy de modelos (MLOps).
 🔍 Explorando o uso de Rust e C++ para otimização de performance em algoritmos e sistemas.
-📌 Ativamente aprendendo com o curso CS50 de Harvard
+📌 Aprendendo paralelamente com o curso CS50 de Harvard
 
 ---
 
@@ -30,7 +30,7 @@ Minhas tecnologias estão categorizadas para demonstrar versatilidade, com ênfa
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,django,ruby,docker,firebase,supabase,java" />
 </p>
-*Especialização em Python (Flask/Django) para criação de APIs que servem modelos de Machine Learning. Experiência com arquitetura serverless e conteinerização (Docker).*
+*Especialização em Python (Flask) para criação de APIs que servem modelos de Machine Learning. Experiência com arquitetura serverless e conteinerização (Docker).*
 
 ### 💻 Frontend & Interfaces
 <p align="center">
