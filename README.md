@@ -11,7 +11,6 @@
 🧠 **Foco principal em Machine Learning e Engenharia de IA**, buscando transformar dados em soluções inteligentes e escaláveis.
 👾 Comecei a programar no segundo semestre de 2024 e hoje busco aplicar o conhecimento em projetos de previsão, análise de sentimentos e sistemas web complexos.
 🎯 Buscando constantemente evoluir em arquitetura de dados, performance e deploy de modelos (MLOps).
-🔍 Explorando o uso de Rust e C++ para otimização de performance em algoritmos e sistemas.
 📌 Aprendendo paralelamente com o curso CS50 de Harvard
 
 ---
