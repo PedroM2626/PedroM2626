@@ -90,6 +90,9 @@ Minhas tecnologias estão categorizadas para demonstrar versatilidade, com ênfa
   <a href="https://discord.com/users/pedrom2626">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="https://wa.me/5561993096847">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
