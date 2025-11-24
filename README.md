@@ -21,9 +21,9 @@ Minhas tecnologias estão categorizadas para demonstrar versatilidade, com ênfa
 
 ### 🧠 Machine Learning & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cs,java" />
+  <img src="https://skillicons.dev/icons?i=py,r,pytorch,tensorflow" />
 </p>
-*Linguagens primárias para Data Science e Modelagem. Java e C# para sistemas de processamento de dados.*
+*Linguagens primárias e frameworks para Data Science e Modelagem.*
 
 ### ☁️ Backend & APIs
 <p align="center">
@@ -35,7 +35,7 @@ Minhas tecnologias estão categorizadas para demonstrar versatilidade, com ênfa
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,vite,electron,flutter" />
 </p>
-*Desenvolvimento de interfaces e aplicações front-end para consumo das APIs e modelos criados, utilizando JavaScript, TypeScript e React.*
+*Desenvolvimento de interfaces e aplicações para consumo das APIs e modelos criados, utilizando JavaScript, TypeScript e React.*
 
 ### ⚙️ Sistemas & Game Engines
 <p align="center">
@@ -54,7 +54,7 @@ Minhas tecnologias estão categorizadas para demonstrar versatilidade, com ênfa
 ## 📚 Atualmente estudando
 
 📘 CS50 (Harvard)
-🧠 **Foco em Estruturas de Dados e Algoritmos** (crucial para otimização de ML)
+🧠 **Foco em Estruturas de Dados, Algoritmos e SQL** (crucial para otimização de ML)
 🔄 Git e Controle de Versão Avançado
 🧪 Memória e Arquitetura de Sistemas (para entender a performance de Rust/C++)
 
@@ -94,7 +94,3 @@ Minhas tecnologias estão categorizadas para demonstrar versatilidade, com ênfa
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">🚧 Em constante evolução e buscando o próximo desafio de IA 🚀</p>
