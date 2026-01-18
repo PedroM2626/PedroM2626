@@ -1,64 +1,76 @@
 <h1 align="center">Olá! 👋 Eu sou Pedro Morato Lahoz</h1>
 
 <p align="center">
-🧠 Engenheiro de IA em Formação • 💡 Desenvolvedor Full-Stack • 🎯 Foco em Modelagem e MLOps
+🧠 Engenheiro de IA em formação • ⚙️ Machine Learning & MLOps • 🎯 Foco em sistemas de ML aplicados
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-🎓 Estudante de Ciência da Computação no UniCEUB
-🧠 **Foco principal em Machine Learning e Engenharia de IA**, buscando transformar dados em soluções inteligentes e escaláveis.
-👾 Comecei a programar no segundo semestre de 2024 e hoje busco aplicar o conhecimento em projetos de previsão, análise de sentimentos e sistemas web complexos.
-🎯 Buscando constantemente evoluir em arquitetura de dados, performance e deploy de modelos (MLOps).
-📌 Aprendendo paralelamente com o curso CS50 de Harvard
-
----
+🎓 Estudante de Ciência da Computação no UniCEUB, com foco em **Machine Learning, MLOps e Inteligência Artificial aplicada**.  
+🧠 Atuo no desenvolvimento de modelos e pipelines end-to-end, buscando transformar dados em **sistemas utilizáveis, reprodutíveis e escaláveis**.  
+👾 Iniciei minha trajetória em programação em 2024 e, a partir de 2025, passei a focar em **Machine Learning e MLOps**, aplicando o aprendizado em projetos de previsão, análise de sentimentos e plataformas de ML, incluindo versionamento, experiment tracking e deploy local.  
+⚙️ Tenho interesse especial em **engenharia de ML**, explorando arquitetura de dados, performance, automação e boas práticas de MLOps.  
+📌 Complemento minha formação com estudos contínuos, incluindo o **CS50 de Harvard**, além de cursos, bootcamps e projetos autorais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Minhas tecnologias estão categorizadas para demonstrar versatilidade, com ênfase na trilha de Ciência de Dados e Engenharia de IA:
+Minhas tecnologias estão organizadas para refletir **foco em Machine Learning, Engenharia de IA e MLOps**, com experiência prática em todo o ciclo de vida de modelos — do experimento ao deploy.
+
+---
 
 ### 🧠 Machine Learning & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
 </p>
-*Linguagens primárias e frameworks para Data Science e Modelagem.*
 
-### ☁️ Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,django,ruby,docker,firebase,supabase,java" />
-</p>
-*Especialização em Python (Flask) para criação de APIs que servem modelos de Machine Learning. Experiência com arquitetura serverless e conteinerização (Docker).*
-
-### 💻 Frontend & Interfaces
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,vite,electron,flutter" />
-</p>
-*Desenvolvimento de interfaces e aplicações para consumo das APIs e modelos criados, utilizando JavaScript, TypeScript e React.*
-
-### ⚙️ Sistemas & Game Engines
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,lua,unity,unreal,godot,robloxstudio" />
-</p>
-*Conhecimento em linguagens de sistemas (C/C++, Rust) para performance e experiência com engines para compreender lógica de jogo e sistemas em tempo real.*
-
-### 🛠️ Ferramentas & Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
-</p>
-*Controle de versão (Git) e ambiente de desenvolvimento (VS Code). Habilidades básicas de design de interface (Figma).*
+*Desenvolvimento e avaliação de modelos de Machine Learning para classificação, previsão e análise de sentimentos, com foco em experimentação, métricas e reprodutibilidade.*
 
 ---
 
-## 📚 Atualmente estudando
+### ⚙️ MLOps, Experimentação & Deploy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git" />
+</p>
 
-📘 CS50 (Harvard)
-🧠 **Foco em Estruturas de Dados, Algoritmos e SQL** (crucial para otimização de ML)
-🔄 Git e Controle de Versão Avançado
-🧪 Memória e Arquitetura de Sistemas (para entender a performance de Rust/C++)
+*Versionamento de código e experimentos, tracking de métricas e artefatos, criação de pipelines locais de MLOps e deploy de modelos em ambientes controlados (Docker). Integração com plataformas como MLflow, DagsHub e Hugging Face.*
 
 ---
+
+### ☁️ Backend & APIs para ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+</p>
+
+*Criação de APIs em Python para servir modelos de Machine Learning, com foco em inferência, validação de dados e integração com interfaces e pipelines.*
+
+---
+
+### 💻 Frontend & Interfaces para IA
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react" />
+</p>
+
+*Desenvolvimento de interfaces para consumo de modelos e visualização de resultados, incluindo dashboards e aplicações interativas para projetos de ML.*
+
+---
+
+### 🧩 Plataformas & Ecossistema de IA
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+</p>
+
+*Experiência prática com serviços de Machine Learning e IA em cloud (Azure ML, AWS, GCP), além de exploração de soluções para experimentação, automação e escalabilidade.*
+
+---
+
+## 📚 Atualmente aprofundando
+
+🧠 **Machine Learning Aplicado e Engenharia de IA**  
+📦 **MLOps (experiment tracking, versionamento, pipelines e deploy local)**  
+🤖 **IA Generativa e ecossistema Hugging Face**  
+⚙️ **Boas práticas de arquitetura para sistemas de ML em produção**
+
 
 ## 📈 GitHub Stats
 
