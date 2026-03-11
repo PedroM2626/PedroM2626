@@ -1,107 +1,204 @@
 <h1 align="center">Olá! 👋 Eu sou Pedro Morato Lahoz</h1>
 
 <p align="center">
-🧠 Engenheiro de IA em formação • ⚙️ Machine Learning & MLOps • 🎯 Foco em sistemas de ML aplicados
+🧠 Machine Learning Engineer em formação • ⚙️ Sistemas de ML & MLOps • 🔬 Experimentação em Machine Learning
 </p>
 
 ---
 
-## 🚀 Sobre mim
-🎓 Estudante de Ciência da Computação no UniCEUB, com foco em **Machine Learning, MLOps e Inteligência Artificial aplicada**.  
-🧠 Atuo no desenvolvimento de modelos e pipelines end-to-end, buscando transformar dados em **sistemas utilizáveis, reprodutíveis e escaláveis**.  
-👾 Iniciei minha trajetória em programação em 2024 e, a partir de 2025, passei a focar em **Machine Learning e MLOps**, aplicando o aprendizado em projetos de previsão, análise de sentimentos e plataformas de ML, incluindo versionamento, experiment tracking e deploy local.  
-⚙️ Tenho interesse especial em **engenharia de ML**, explorando arquitetura de dados, performance, automação e boas práticas de MLOps.  
-📌 Complemento minha formação com estudos contínuos, incluindo o **CS50 de Harvard**, além de cursos, bootcamps e projetos autorais.
+# 🚀 Sobre mim
 
-## 🛠️ Tecnologias e Ferramentas
+🎓 Estudante de **Ciência da Computação no UniCEUB**, com foco em **Machine Learning, Engenharia de IA e MLOps**.
 
-Minhas tecnologias estão organizadas para refletir **foco em Machine Learning, Engenharia de IA e MLOps**, com experiência prática em todo o ciclo de vida de modelos — do experimento ao deploy.
+🧠 Meu principal interesse é desenvolver **sistemas completos de Machine Learning**, indo além de notebooks e modelos isolados — explorando **pipelines, automação, experimentação estruturada e arquitetura de ML**.
+
+📊 Meus projetos buscam cobrir **todo o ciclo de vida de ML**:
+
+* exploração e preparação de dados
+* treinamento e comparação de modelos
+* experiment tracking
+* automação de pipelines
+* deploy de modelos
+* organização e reprodutibilidade de experimentos
+
+👾 Comecei a programar em **2024** e, a partir de **2025**, passei a focar intensamente em **Machine Learning e MLOps**, aplicando esse conhecimento em plataformas e experimentos próprios.
+
+📌 Também exploro e publico projetos ou experimentos em plataformas como:
+
+* Kaggle
+* Hugging Face
+* DagsHub
+
+com foco em **experimentação, benchmarking de modelos e engenharia de ML**.
 
 ---
 
-### 🧠 Machine Learning & Data Science
+# 🧠 Projetos Principais
+
+### ⚙️ AutoMLOps Studio *(em desenvolvimento)*
+
+Plataforma educacional para **experimentação e automação de Machine Learning utilizando práticas de MLOps**.
+
+Principais funcionalidades:
+
+* Treinamento de múltiplos modelos de ML
+* Otimização de hiperparâmetros com Optuna
+* Rastreamento de experimentos com MLflow
+* Registro automático de métricas, gráficos e artefatos
+* Interface interativa para configuração de experimentos
+* Organização estruturada de experimentos e runs
+
+Objetivo do projeto:
+
+Criar um ambiente que permita **explorar, comparar e entender modelos de Machine Learning utilizando práticas reais de engenharia de ML e MLOps**.
+
+---
+
+### 🔬 Multi-AutoML Interface *(em desenvolvimento)*
+
+Interface criada para **comparar diferentes frameworks de AutoML**.
+
+Permite testar e analisar frameworks como:
+
+* AutoGluon
+* FLAML
+* TPOT
+* H2O AutoML
+
+Com funcionalidades como:
+
+* execução e comparação de múltiplos frameworks
+* análise de métricas
+* organização de experimentos
+* estudo prático das diferenças entre abordagens de AutoML
+
+O projeto foi criado para **estudar empiricamente o comportamento e a performance de frameworks AutoML**.
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+Minhas tecnologias refletem foco em **Machine Learning, Engenharia de IA e MLOps**, cobrindo desde experimentação até deploy e organização de sistemas de ML.
+
+---
+
+## 🧠 Machine Learning & Data Science
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
 </p>
 
-*Desenvolvimento e avaliação de modelos de Machine Learning para classificação, previsão e análise de sentimentos, com foco em experimentação, métricas e reprodutibilidade.*
+* Desenvolvimento e avaliação de modelos de Machine Learning
+* Classificação, regressão e análise de sentimentos
+* Feature engineering e experimentação
+* Benchmark e comparação entre algoritmos
 
 ---
 
-### ⚙️ MLOps, Experimentação & Deploy
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git" />
-</p>
-
-*Versionamento de código e experimentos, tracking de métricas e artefatos, criação de pipelines locais de MLOps e deploy de modelos em ambientes controlados (Docker). Integração com plataformas como MLflow, DagsHub e Hugging Face.*
-
----
-
-### ☁️ Backend & APIs para ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
-</p>
-
-*Criação de APIs em Python para servir modelos de Machine Learning, com foco em inferência, validação de dados e integração com interfaces e pipelines.*
-
----
-
-### 💻 Frontend & Interfaces para IA
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react" />
-</p>
-
-*Desenvolvimento de interfaces para consumo de modelos e visualização de resultados, incluindo dashboards e aplicações interativas para projetos de ML.*
-
----
-
-### 🧩 Plataformas & Ecossistema de IA
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
-</p>
-
-*Experiência prática com serviços de Machine Learning e IA em cloud (Azure ML, AWS, GCP), além de exploração de soluções para experimentação, automação e escalabilidade.*
-
----
-
-## 📚 Atualmente aprofundando
-
-🧠 **Machine Learning Aplicado e Engenharia de IA**  
-📦 **MLOps (experiment tracking, versionamento, pipelines e deploy local)**  
-🤖 **IA Generativa e ecossistema Hugging Face**  
-⚙️ **Boas práticas de arquitetura para sistemas de ML em produção**
-
-
-## 📈 GitHub Stats
+## ⚙️ MLOps, Experimentação & Versionamento
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroM2626&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroM2626&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=docker,git" />
+</p>
+
+* Experiment tracking
+* Versionamento de datasets e modelos
+* Organização de pipelines locais de ML
+* Reprodutibilidade de experimentos
+
+Ferramentas exploradas:
+
+* MLflow
+* DagsHub
+* Hugging Face
+
+---
+
+## ☁️ Backend & APIs para Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,fastapi" />
+</p>
+
+* APIs para inferência de modelos
+* integração com pipelines de ML
+* validação de dados e endpoints de previsão
+
+---
+
+## 💻 Interfaces e Visualização de Sistemas de ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react" />
+</p>
+
+* dashboards de experimentos
+* visualização de métricas
+* interfaces interativas para projetos de ML
+
+---
+
+## ☁️ Plataformas & Ecossistema de IA
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+</p>
+
+Experiência exploratória com plataformas e ferramentas do ecossistema de IA:
+
+* Azure Machine Learning
+* AWS
+* Google Cloud
+* IBM Cloud / watsonx
+* Databricks
+
+Além de plataformas de colaboração e experimentação em ML como:
+
+* Hugging Face
+* DagsHub
+* Kaggle
+
+---
+
+# 📚 Atualmente aprofundando
+
+🧠 **Sistemas de Machine Learning e arquitetura de pipelines**
+📦 **MLOps (experiment tracking, versionamento e automação)**
+🔬 **Experimentação e benchmarking de modelos de ML**
+🤖 **IA generativa e ecossistema Hugging Face**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PedroM2626&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroM2626&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Objetivos
+# 🎯 Objetivos
 
-- **Especializar-me em Engenharia de IA:** Dominar o ciclo de vida completo de MLOps (do treinamento à implantação e monitoramento).
-- **Trabalhar em empresas de Big Tech** ou startups focadas em soluções de Machine Learning.
-- Criar projetos próprios **com impacto**, que resolvam problemas complexos de dados e previsão.
-- Ser uma referência em arquitetura que combina performance (Rust/C++) com flexibilidade (Python/Django).
+* Tornar-me **Machine Learning Engineer**, especializado em **sistemas de ML e MLOps**
+* Desenvolver **plataformas e ferramentas para experimentação em Machine Learning**
+* Trabalhar em projetos de **IA aplicada em escala**
+* Continuar explorando e publicando experimentos em Machine Learning
 
 ---
 
 ## 📫 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-morato-lahoz-7996b1314">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pedromoratolahoz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/pedrom2626">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pedro-morato-lahoz-7996b1314">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pedromoratolahoz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/pedrom2626">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
   <a href="https://wa.me/5561993096847">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
