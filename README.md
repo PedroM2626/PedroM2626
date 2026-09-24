@@ -1,205 +1,322 @@
-<h1 align="center">Olá! 👋 Eu sou Pedro Morato Lahoz</h1>
+<div align="center">
 
-<p align="center">
-🧠 Machine Learning Engineer em formação • ⚙️ Sistemas de ML & MLOps • 🔬 Experimentação em Machine Learning
+# 👋 Pedro Morato Lahoz
+
+### 🧠 Machine Learning • ⚙️ ML Systems • 🔬 Experimentation
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Machine+Learning+Systems;Experimenting+with+ML+Architectures;Benchmarking+Models+and+Frameworks;Exploring+the+intersection+of+ML+and+Systems" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/PedroM2626">
+<img src="https://img.shields.io/github/followers/PedroM2626?label=Followers&style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/PedroM2626?tab=repositories">
+<img src="https://img.shields.io/github/stars/PedroM2626?affiliations=OWNER&style=flat-square&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+🎓 Computer Science student at **UniCEUB** focused on **Machine Learning, AI Engineering and ML Systems**.
+
+I like going beyond isolated notebooks and models.
+
+My projects usually revolve around a simple question:
+
+> **How can we build, evaluate and understand Machine Learning systems in a reproducible way?**
+
+My work combines:
+
+🔬 **Experimentation & Benchmarking**
+⚙️ **ML Engineering & MLOps**
+🧠 **Machine Learning & Deep Learning**
+🎮 **Reinforcement Learning**
+☁️ **Cloud & ML Platforms**
+
+I started programming in **2024** and began focusing heavily on Machine Learning in **2025**.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ AutoMLOps Studio
+
+<a href="https://github.com/PedroM2626/AutoMLOps-Studio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=AutoMLOps-Studio&theme=tokyonight&hide_border=true"/>
+</a>
+
+Educational platform for experimenting with Machine Learning while applying real **MLOps practices**.
+
+**Stack**
+
+`Python` `MLflow` `Optuna` `Docker`
+
+**Focus**
+
+Experiment tracking • Automation • Hyperparameter optimization • Reproducibility
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 Multi-AutoML Interface
+
+<a href="https://github.com/PedroM2626/Multi-AutoML-Interface">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=Multi-AutoML-Interface&theme=tokyonight&hide_border=true"/>
+</a>
+
+Experimental interface for comparing different **AutoML frameworks** under similar conditions.
+
+**Frameworks**
+
+`AutoGluon` `FLAML` `TPOT` `H2O AutoML`
+
+**Focus**
+
+Benchmarking • Metrics • Framework comparison • Experiment organization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 RL Experiments Lab
+
+<a href="https://github.com/PedroM2626/RL-Experiments-Lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=RL-Experiments-Lab&theme=tokyonight&hide_border=true"/>
+</a>
+
+Experimental laboratory for **Reinforcement Learning and benchmarking**.
+
+Exploring:
+
+`PPO` `RLlib` `SB3` `CleanRL` `ML-Agents`
+
+**Focus**
+
+Architecture • Representation • Algorithms • Seeds • Generalization • Benchmarking
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔭 More experiments
+
+My GitHub contains additional experiments covering different areas of ML:
+
+🧠 Supervised Learning
+🎲 Unsupervised Learning
+🤖 Reinforcement Learning
+📊 AutoML
+⚙️ MLOps
+☁️ Cloud ML platforms
+
+<a href="https://github.com/PedroM2626?tab=repositories">
+
+**→ Explore all repositories**
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧪 My ML Approach
+
+<div align="center">
+
+```text
+       ┌──────────────────────┐
+       │       Problem        │
+       └──────────┬───────────┘
+                  ↓
+       ┌──────────────────────┐
+       │    Experimentation   │
+       └──────────┬───────────┘
+                  ↓
+       ┌──────────────────────┐
+       │  Model / Architecture│
+       └──────────┬───────────┘
+                  ↓
+       ┌──────────────────────┐
+       │ Benchmark & Evaluate │
+       └──────────┬───────────┘
+                  ↓
+       ┌──────────────────────┐
+       │ Analyze & Understand │
+       └──────────┬───────────┘
+                  ↓
+       ┌──────────────────────┐
+       │   Reproduce / Scale  │
+       └──────────────────────┘
+```
+
+</div>
+
+I am particularly interested in experiments where the goal is not simply to find the highest score, but to understand **why different approaches behave differently**.
+
+---
+
+# 🛠️ Tech Stack
+
+### 🧠 Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
----
-
-# 🚀 Sobre mim
-
-🎓 Estudante de **Ciência da Computação no UniCEUB**, com foco em **Machine Learning, Engenharia de IA e MLOps**.
-
-🧠 Meu principal interesse é desenvolver **sistemas completos de Machine Learning**, indo além de notebooks e modelos isolados — explorando **pipelines, automação, experimentação estruturada e arquitetura de ML**.
-
-📊 Meus projetos buscam cobrir **todo o ciclo de vida de ML**:
-
-* exploração e preparação de dados
-* treinamento e comparação de modelos
-* experiment tracking
-* automação de pipelines
-* deploy de modelos
-* organização e reprodutibilidade de experimentos
-
-👾 Comecei a programar em **2024** e, a partir de **2025**, passei a focar intensamente em **Machine Learning e MLOps**, aplicando esse conhecimento em plataformas e experimentos próprios.
-
-📌 Também exploro e publico projetos ou experimentos em plataformas como:
-
-* Kaggle
-* Hugging Face
-* DagsHub
-
-com foco em **experimentação, benchmarking de modelos e engenharia de ML**.
+`Scikit-learn` · `PyTorch` · `TensorFlow` · `Optuna` · `MLflow`
 
 ---
 
-# 🧠 Projetos Principais
+### ⚙️ Engineering & MLOps
 
-### ⚙️ AutoMLOps Studio *(em desenvolvimento)*
-
-Plataforma educacional para **experimentação e automação de Machine Learning utilizando práticas de MLOps**.
-
-Principais funcionalidades:
-
-* Treinamento de múltiplos modelos de ML
-* Otimização de hiperparâmetros com Optuna
-* Rastreamento de experimentos com MLflow
-* Registro automático de métricas, gráficos e artefatos
-* Interface interativa para configuração de experimentos
-* Organização estruturada de experimentos e runs
-
-Objetivo do projeto:
-
-Criar um ambiente que permita **explorar, comparar e entender modelos de Machine Learning utilizando práticas reais de engenharia de ML e MLOps**.
-
----
-
-### 🔬 Multi-AutoML Interface *(em desenvolvimento)*
-
-Interface criada para **comparar diferentes frameworks de AutoML**.
-
-Permite testar e analisar frameworks como:
-
-* AutoGluon
-* FLAML
-* TPOT
-* H2O AutoML
-
-Com funcionalidades como:
-
-* execução e comparação de múltiplos frameworks
-* análise de métricas
-* organização de experimentos
-* estudo prático das diferenças entre abordagens de AutoML
-
-O projeto foi criado para **estudar empiricamente o comportamento e a performance de frameworks AutoML**.
-
----
-
-# 🛠️ Tecnologias e Ferramentas
-
-Minhas tecnologias refletem foco em **Machine Learning, Engenharia de IA e MLOps**, cobrindo desde experimentação até deploy e organização de sistemas de ML.
-
----
-
-## 🧠 Machine Learning & Data Science
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
-* Desenvolvimento e avaliação de modelos de Machine Learning
-* Classificação, regressão e análise de sentimentos
-* Feature engineering e experimentação
-* Benchmark e comparação entre algoritmos
+`MLflow` · `DagsHub` · `Hugging Face` · `Docker` · `Git`
 
 ---
 
-## ⚙️ MLOps, Experimentação & Versionamento
+### 🌐 Backend & Interfaces
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git" />
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,typescript,javascript" />
 </p>
 
-* Experiment tracking
-* Versionamento de datasets e modelos
-* Organização de pipelines locais de ML
-* Reprodutibilidade de experimentos
-
-Ferramentas exploradas:
-
-* MLflow
-* DagsHub
-* Hugging Face
+`FastAPI` · `Flask` · `React` · `TypeScript` · `JavaScript`
 
 ---
 
-## ☁️ Backend & APIs para Machine Learning
+### ☁️ Cloud & ML Platforms
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
-</p>
-
-* APIs para inferência de modelos
-* integração com pipelines de ML
-* validação de dados e endpoints de previsão
-
----
-
-## 💻 Interfaces e Visualização de Sistemas de ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react" />
-</p>
-
-* dashboards de experimentos
-* visualização de métricas
-* interfaces interativas para projetos de ML
-
----
-
-## ☁️ Plataformas & Ecossistema de IA
-
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
 </p>
 
-Experiência exploratória com plataformas e ferramentas do ecossistema de IA:
-
-* Azure Machine Learning
-* AWS
-* Google Cloud
-* IBM Cloud / watsonx
-* Databricks
-
-Além de plataformas de colaboração e experimentação em ML como:
-
-* Hugging Face
-* DagsHub
-* Kaggle
+`Azure ML` · `AWS` · `Google Cloud` · `Databricks` · `IBM watsonx`
 
 ---
 
-# 📚 Atualmente aprofundando
+# 🔬 Areas I'm Exploring
 
-🧠 **Sistemas de Machine Learning e arquitetura de pipelines**
-📦 **MLOps (experiment tracking, versionamento e automação)**
-🔬 **Experimentação e benchmarking de modelos de ML**
-🤖 **IA generativa e ecossistema Hugging Face**
+<div align="center">
 
----
+|            Area           | Focus                              |
+| :-----------------------: | :--------------------------------- |
+|    🧠 Machine Learning    | Models & representations           |
+| 🎮 Reinforcement Learning | Agents & environments              |
+|       ⚙️ ML Systems       | Pipelines & infrastructure         |
+|      🔬 Scientific ML     | PINNs & learned dynamics           |
+|        🔗 Causal ML       | Causal inference                   |
+|    🎲 Probabilistic ML    | Uncertainty & probabilistic models |
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PedroM2626&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroM2626&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🎯 Objetivos
-
-* Tornar-me **Machine Learning Engineer**, especializado em **sistemas de ML e MLOps**
-* Desenvolver **plataformas e ferramentas para experimentação em Machine Learning**
-* Trabalhar em projetos de **IA aplicada em escala**
-* Continuar explorando e publicando experimentos em Machine Learning
+</div>
 
 ---
 
-## 📫 Onde me encontrar
+# 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-morato-lahoz-7996b1314">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pedromoratolahoz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/pedrom2626">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5561993096847">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroM2626&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroM2626&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PedroM2626&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PedroM2626&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PedroM2626/PedroM2626/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+# 🎯 Current Direction
+
+```text
+Machine Learning
+       │
+       ├── ML Engineering
+       │      ├── MLOps
+       │      ├── Pipelines
+       │      └── ML Systems
+       │
+       ├── Experimentation
+       │      ├── Benchmarking
+       │      ├── Model Comparison
+       │      └── Reproducibility
+       │
+       └── Research Exploration
+              ├── Reinforcement Learning
+              ├── Scientific ML
+              ├── Causal ML
+              └── Probabilistic ML
+```
+
+My goal is to become a **Machine Learning Engineer capable of building, evaluating and understanding complete ML systems**.
+
+---
+
+# 📫 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedro-morato-lahoz-7996b1314">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pedromoratolahoz@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/pedrom2626">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### *Building. Experimenting. Benchmarking. Understanding.*
+
+</div>
