@@ -1,19 +1,20 @@
 <div align="center">
 
-# 👋 Pedro Morato Lahoz
-
-### 🧠 Machine Learning • ⚙️ ML Systems • 🔬 Experimentation
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Machine+Learning+Systems;Experimenting+with+ML+Architectures;Benchmarking+Models+and+Frameworks;Exploring+the+intersection+of+ML+and+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=210&section=header&text=Pedro%20Morato%20Lahoz&fontSize=44&fontColor=C0CAF5&fontAlignY=35" width="100%" alt="Pedro Morato Lahoz" />
 
 <br>
 
-<a href="https://github.com/PedroM2626">
-<img src="https://img.shields.io/github/followers/PedroM2626?label=Followers&style=flat-square&logo=github"/>
-</a>
-<a href="https://github.com/PedroM2626?tab=repositories">
-<img src="https://img.shields.io/github/stars/PedroM2626?affiliations=OWNER&style=flat-square&logo=github"/>
-</a>
+### 🧠 Machine Learning &nbsp;•&nbsp; ⚙️ ML Systems &nbsp;•&nbsp; 🔬 Experimentation
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&random=false&width=640&height=44&lines=Building+reproducible+ML+systems;Benchmarking+architectures+and+frameworks;Understanding+why+models+behave+differently;From+experiment+to+engineering" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-7AA2F7?style=flat-square&labelColor=24283B"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-9ECE6A?style=flat-square&labelColor=24283B"/>
+<img src="https://img.shields.io/badge/MLOps-BB9AF7?style=flat-square&labelColor=24283B"/>
+<img src="https://img.shields.io/badge/Benchmarking-7DCFFF?style=flat-square&labelColor=24283B"/>
+<img src="https://img.shields.io/badge/Reproducibility-F7768E?style=flat-square&labelColor=24283B"/>
 
 </div>
 
@@ -21,23 +22,34 @@
 
 ## 🧠 About Me
 
-🎓 Computer Science student at **UniCEUB** focused on **Machine Learning, AI Engineering and ML Systems**.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I like going beyond isolated notebooks and models.
+🎓 Computer Science student at **UniCEUB**, focused on **Machine Learning, AI Engineering and ML Systems**.
 
-My projects usually revolve around a simple question:
+I like going beyond isolated notebooks and models. My work revolves around one question:
 
 > **How can we build, evaluate and understand Machine Learning systems in a reproducible way?**
 
-My work combines:
-
-🔬 **Experimentation & Benchmarking**
-⚙️ **ML Engineering & MLOps**
-🧠 **Machine Learning & Deep Learning**
-🎮 **Reinforcement Learning**
-☁️ **Cloud & ML Platforms**
-
 I started programming in **2024** and began focusing heavily on Machine Learning in **2025**.
+
+</td>
+<td width="42%" valign="top">
+
+#### At a glance
+
+- 🎓 &nbsp; Computer Science @ **UniCEUB**
+- 🚀 &nbsp; Programming since **2024**
+- 🧠 &nbsp; Full ML focus since **2025**
+- ⚙️ &nbsp; End-to-end **ML systems**
+- 🔬 &nbsp; **Reproducibility** first
+
+</td>
+</tr>
+</table>
+
+**My work combines** 🔬 Experimentation & Benchmarking &nbsp;·&nbsp; ⚙️ ML Engineering & MLOps &nbsp;·&nbsp; 🧠 Machine & Deep Learning &nbsp;·&nbsp; 🎮 Reinforcement Learning &nbsp;·&nbsp; ☁️ Cloud ML platforms
 
 ---
 
@@ -45,233 +57,190 @@ I started programming in **2024** and began focusing heavily on Machine Learning
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### ⚙️ AutoMLOps Studio
 
 <a href="https://github.com/PedroM2626/AutoMLOps-Studio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=AutoMLOps-Studio&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=AutoMLOps-Studio&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5"/>
 </a>
 
 Educational platform for experimenting with Machine Learning while applying real **MLOps practices**.
 
-**Stack**
+**Stack** &nbsp; `Python` `MLflow` `Optuna` `Docker`
 
-`Python` `MLflow` `Optuna` `Docker`
-
-**Focus**
-
-Experiment tracking • Automation • Hyperparameter optimization • Reproducibility
+**Focus** &nbsp; Experiment tracking · Automation · HPO · Reproducibility
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔬 Multi-AutoML Interface
 
 <a href="https://github.com/PedroM2626/Multi-AutoML-Interface">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=Multi-AutoML-Interface&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=Multi-AutoML-Interface&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5"/>
 </a>
 
 Experimental interface for comparing different **AutoML frameworks** under similar conditions.
 
-**Frameworks**
+**Frameworks** &nbsp; `AutoGluon` `FLAML` `TPOT` `H2O AutoML`
 
-`AutoGluon` `FLAML` `TPOT` `H2O AutoML`
-
-**Focus**
-
-Benchmarking • Metrics • Framework comparison • Experiment organization
+**Focus** &nbsp; Benchmarking · Metrics · Framework comparison
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🎮 RL Experiments Lab
 
 <a href="https://github.com/PedroM2626/RL-Experiments-Lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=RL-Experiments-Lab&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroM2626&repo=RL-Experiments-Lab&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5"/>
 </a>
 
 Experimental laboratory for **Reinforcement Learning and benchmarking**.
 
-Exploring:
+**Stack** &nbsp; `PPO` `RLlib` `SB3` `CleanRL` `ML-Agents`
 
-`PPO` `RLlib` `SB3` `CleanRL` `ML-Agents`
-
-**Focus**
-
-Architecture • Representation • Algorithms • Seeds • Generalization • Benchmarking
+**Focus** &nbsp; Architecture · Representation · Seeds · Generalization
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔭 More experiments
 
-My GitHub contains additional experiments covering different areas of ML:
+More repositories covering other areas of ML:
 
-🧠 Supervised Learning
-🎲 Unsupervised Learning
-🤖 Reinforcement Learning
-📊 AutoML
-⚙️ MLOps
-☁️ Cloud ML platforms
+🧠 Supervised Learning &nbsp;·&nbsp; 🎲 Unsupervised Learning<br>
+🤖 Reinforcement Learning &nbsp;·&nbsp; 📊 AutoML<br>
+⚙️ MLOps &nbsp;·&nbsp; ☁️ Cloud ML platforms
 
 <a href="https://github.com/PedroM2626?tab=repositories">
-
-**→ Explore all repositories**
-
+<img src="https://img.shields.io/badge/→_Explore_all_repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white&labelColor=24283B"/>
 </a>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🧪 My ML Approach
+## 🧪 My ML Approach
 
 <div align="center">
 
-```text
-       ┌──────────────────────┐
-       │       Problem        │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │    Experimentation   │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │  Model / Architecture│
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │ Benchmark & Evaluate │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │ Analyze & Understand │
-       └──────────┬───────────┘
-                  ↓
-       ┌──────────────────────┐
-       │   Reproduce / Scale  │
-       └──────────────────────┘
-```
+<img src="https://img.shields.io/badge/Problem-565F89?style=flat-square&labelColor=1A1B27"/> &nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/Experimentation-7AA2F7?style=flat-square&labelColor=1A1B27"/> &nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/Model_/_Architecture-BB9AF7?style=flat-square&labelColor=1A1B27"/> &nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/Benchmark_%26_Evaluate-7DCFFF?style=flat-square&labelColor=1A1B27"/> &nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/Analyze_%26_Understand-9ECE6A?style=flat-square&labelColor=1A1B27"/> &nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/Reproduce_/_Scale-F7768E?style=flat-square&labelColor=1A1B27"/>
 
 </div>
 
-I am particularly interested in experiments where the goal is not simply to find the highest score, but to understand **why different approaches behave differently**.
+I am particularly interested in experiments where the goal is not simply the highest score, but understanding **why different approaches behave differently**.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 🧠 Machine Learning
+<table>
+<tr>
+<td width="26%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
+#### 🧠 Machine Learning
 
-`Scikit-learn` · `PyTorch` · `TensorFlow` · `Optuna` · `MLflow`
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
 
----
+`PyTorch` `TensorFlow` `Scikit-learn` `Optuna`
 
-### ⚙️ Engineering & MLOps
+</td>
+<td width="24%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
+#### ⚙️ Engineering & MLOps
 
-`MLflow` · `DagsHub` · `Hugging Face` · `Docker` · `Git`
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
 
----
+`MLflow` `DagsHub` `Hugging Face` `Docker`
 
-### 🌐 Backend & Interfaces
+</td>
+<td width="25%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,typescript,javascript" />
-</p>
+#### 🌐 Backend & Interfaces
 
-`FastAPI` · `Flask` · `React` · `TypeScript` · `JavaScript`
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,typescript,javascript&theme=dark" />
 
----
+`FastAPI` `Flask` `React` `TypeScript`
 
-### ☁️ Cloud & ML Platforms
+</td>
+<td width="25%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
-</p>
+#### ☁️ Cloud & ML Platforms
 
-`Azure ML` · `AWS` · `Google Cloud` · `Databricks` · `IBM watsonx`
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp&theme=dark" />
 
----
+`Azure ML` `AWS` `Google Cloud` `watsonx`
 
-# 🔬 Areas I'm Exploring
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-|            Area           | Focus                              |
-| :-----------------------: | :--------------------------------- |
-|    🧠 Machine Learning    | Models & representations           |
-| 🎮 Reinforcement Learning | Agents & environments              |
-|       ⚙️ ML Systems       | Pipelines & infrastructure         |
-|      🔬 Scientific ML     | PINNs & learned dynamics           |
-|        🔗 Causal ML       | Causal inference                   |
-|    🎲 Probabilistic ML    | Uncertainty & probabilistic models |
+<img src="https://img.shields.io/badge/MLflow-00DBDE?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Optuna-5D8BF4?style=flat-square&logo=optuna&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/DagsHub-1FC57E?style=flat-square&labelColor=24283B"/>
+<img src="https://img.shields.io/badge/IBM_watsonx-0F62FE?style=flat-square&labelColor=24283B"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🔬 Areas I'm Exploring
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroM2626&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-Models_%26_representations-24283B?style=flat-square&labelColor=1A1B27&color=7AA2F7"/>
+<img src="https://img.shields.io/badge/🎮_Reinforcement_Learning-Agents_%26_environments-24283B?style=flat-square&labelColor=1A1B27&color=9ECE6A"/>
+<img src="https://img.shields.io/badge/⚙️_ML_Systems-Pipelines_%26_infrastructure-24283B?style=flat-square&labelColor=1A1B27&color=BB9AF7"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroM2626&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/🔬_Scientific_ML-PINNs_%26_learned_dynamics-24283B?style=flat-square&labelColor=1A1B27&color=7DCFFF"/>
+<img src="https://img.shields.io/badge/🔗_Causal_ML-Causal_inference-24283B?style=flat-square&labelColor=1A1B27&color=F7768E"/>
+<img src="https://img.shields.io/badge/🎲_Probabilistic_ML-Uncertainty-24283B?style=flat-square&labelColor=1A1B27&color=FF9E64"/>
 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PedroM2626&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&rank_icon=github&hide=stars"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroM2626&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=PedroM2626&theme=tokyonight&hide_border=true&background=1A1B27&border=24283B&stroke=7AA2F7&ring=BB9AF7&fire=7DCFFF&currStreakLabel=9ECE6A"/>
 
 <br>
 
-<div align="center">
+#### 📅 Contribution history
 
-<img src="https://streak-stats.demolab.com?user=PedroM2626&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PedroM2626&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://ghchart.rshah.org/7AA2F7/PedroM2626" alt="Pedro's contribution chart" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+## 🎯 Current Direction
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PedroM2626/PedroM2626/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-# 🎯 Current Direction
+<table>
+<tr>
+<td width="52%" valign="top">
 
 ```text
 Machine Learning
@@ -293,30 +262,45 @@ Machine Learning
               └── Probabilistic ML
 ```
 
-My goal is to become a **Machine Learning Engineer capable of building, evaluating and understanding complete ML systems**.
+</td>
+<td width="48%" valign="top">
+
+My goal is to become a **Machine Learning Engineer** capable of **building, evaluating and understanding complete ML systems**.
+
+<img src="https://img.shields.io/badge/Build-7AA2F7?style=for-the-badge&labelColor=24283B"/>
+<img src="https://img.shields.io/badge/Evaluate-9ECE6A?style=for-the-badge&labelColor=24283B"/>
+<img src="https://img.shields.io/badge/Understand-BB9AF7?style=for-the-badge&labelColor=24283B"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📫 Connect with me
+## 📫 Connect with me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pedro-morato-lahoz-7996b1314">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27"/>
 </a>
 
 <a href="mailto:pedromoratolahoz@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27"/>
 </a>
 
 <a href="https://discord.com/users/pedrom2626">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1B27"/>
 </a>
+
+<br><br>
+
+### *Building. Experimenting. Benchmarking. Understanding.*
 
 </div>
 
 <div align="center">
 
-### *Building. Experimenting. Benchmarking. Understanding.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=120&section=footer" width="100%" alt="" />
 
 </div>
